@@ -14,6 +14,7 @@
     "flag D8",
     "flag D7",
     "clear D6",
-    "flag B1"
+    "flag B1",
+    "clear F4"
   ]
 }
