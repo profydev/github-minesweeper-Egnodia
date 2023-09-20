@@ -5,6 +5,7 @@
     "clear D4",
     "clear A4",
     "clear H1",
-    "flag F6"
+    "flag F6",
+    "clear F2"
   ]
 }
