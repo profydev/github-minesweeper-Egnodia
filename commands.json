@@ -1,6 +1,10 @@
 {
   "commands": [
+move-14-19
     "clear A1",
     "flag D2"
+=======
+    "clear A1"
+main
   ]
 }
